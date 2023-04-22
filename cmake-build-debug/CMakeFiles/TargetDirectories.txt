@@ -1,0 +1,3 @@
+/Users/tianrong/CLionProjects/bank/cmake-build-debug/CMakeFiles/bank.dir
+/Users/tianrong/CLionProjects/bank/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/tianrong/CLionProjects/bank/cmake-build-debug/CMakeFiles/rebuild_cache.dir
